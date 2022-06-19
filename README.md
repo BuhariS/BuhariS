@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Buhari Shehu an Electrical Engineer, Web Developer and Data Scientist
-- 👀 I’m interested in Full-Stack Web Development and Data Science 
-- 🌱 I’m currently learning Data Science 
+- 👋 Hi, I’m Buhari Shehu an Electrical Engineer, Business Analyst and Data Scientist
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me: shehubuhari1@gmail.com 
 
