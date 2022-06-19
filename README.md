@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Buhari Shehu an Electrical Engineer, Business Analyst and Data Scientist
-- 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me: shehubuhari1@gmail.com 
 
 <!---
